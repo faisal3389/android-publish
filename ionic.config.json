@@ -1,0 +1,7 @@
+{
+  "name": "android-publish",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
